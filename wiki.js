@@ -1,3 +1,5 @@
+// Copyright © 2019 By Fajar Firdaus 
+// Please Don't Recode My Program Because i take and long time to complete this project
 var req = require("request");
 var rl = require("readline");
 var style = require("chalk");
